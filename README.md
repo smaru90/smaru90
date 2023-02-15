@@ -1,4 +1,10 @@
 ### Hi there 👋
+<h3>About me</h3>
+
+<p>
+I am a former seaman who decided to change industries in order to spend more time with my family, as well as to improve myself in an industry that has fascinated me since my college days.
+</p>
+
 
 <!--
 **smaru90/smaru90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
