@@ -21,19 +21,21 @@ I'm a former seaman who decided to become a developer in order to spend more tim
 </h4>
 <br />
 <h4>
-I am currently looking for employment as an intern or junior in the IT industry to help develop projects and improve my skills.
+I'm currently looking for employment as an intern or junior in the IT industry to help develop projects and improve my skills.
 </h4>
 <br />
 <p>
 My first project was the website of the kickboxing club where I train :boxing_glove:. 
+ https://github.com/smaru90/Armia-Polkowice 
 </p>
 <br />
 <p>
-🔭 I’m currently working on a search engine for football players who can be sorted by their age, position, or skill level, etc.
+🔭 At the moment, I am working on an application that will allow me to search for players from a database based on their Name, Nationality, position, etc.
+  https://github.com/smaru90/Footballers-finder
 </p>
 <br />
 <p>
-🌱 I’m currently learning Java and PHP.
+🌱 I am in the process of learning Java and PHP
 </p>
 
 
